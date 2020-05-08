@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+ English Version
+  GeoClimb
+
+  Created by Student on 2018-10-11.
+  Copyright © 2018 qualityoverload2. All rights reserved.
+*/
+
+//Route names
+"easypeasy_description" = "Located near back corner of Grand River Rocks gym in Kitchener. This climbing involves minimal technical moves. Good route for beginners.";
+"nomadscave_description" = "Located near back corner of Grand River Rocks gym in Kitchener. This climbing involves more complicated technical moves. Good intermediate route. Pay attention.";
+"farewelltoarms_description" = "Located near front of London rock climbing gym in Kitchener. This climbing involves very complicated technical moves. Advanced route. Pay very close attention.";
+"thegoatface_description" = "Located near front of Tobermory rock climbing gym. This climbing involves very complicated technical moves. Advanced route. Good luck -- you will need it!.";
+"alpacahill_description" = "Located near back corner of Grand River Rocks gym in Kitchener. Super difficult. Bring lunch -- you will be there all day.";
+"Yes_text"="Yes";
+"Unattempted_text"="Unattempted";

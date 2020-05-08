@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+ French Version
+  GeoClimb
+
+  Created by Student on 2018-10-11.
+  Copyright © 2018 qualityoverload2. All rights reserved.
+*/
+
+//Route names
+"easypeasy_description" = "Situé près du coin arrière du gymnase Grand River Rocks à Kitchener. Cette escalade implique un minimum de mouvements techniques. Bon itinéraire pour les débutants.";
+"nomadscave_description" = "Situé près du coin arrière du gymnase Grand River Rocks à Kitchener. Cette escalade implique des mouvements techniques plus compliqués. Bon itinéraire intermédiaire. Faites attention.";
+"farewelltoarms_description" = "Situé près du gymnase d'escalade de London, à Kitchener. Cette escalade implique des mouvements techniques très compliqués. Itinéraire avancé. Faites très attention.";
+"thegoatface_description" = "Situé près du gymnase d'escalade Tobermory. Cette escalade implique des mouvements techniques très compliqués. Itinéraire avancé. Bonne chance, tu en auras besoin!.";
+"alpacahill_description" = "Situé près du coin arrière du gymnase Grand River Rocks à Kitchener. Super difficile. Apportez le déjeuner - vous serez là toute la journée.";
+"Yes_text"="Oui";
+"Unattempted_text"="Sans tentative";

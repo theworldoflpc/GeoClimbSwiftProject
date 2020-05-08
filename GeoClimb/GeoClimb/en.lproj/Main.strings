@@ -1,0 +1,98 @@
+
+/* Class = "UILabel"; text = "Climber:"; ObjectID = "0HH-FZ-9NK"; */
+"0HH-FZ-9NK.text" = "Climber:";
+
+/* Class = "UILabel"; text = "  Welcome to Geo Climb   The only app you need for optimizing your rock climbing performance "; ObjectID = "2SH-5w-zm7"; */
+"2SH-5w-zm7.text" = "  Welcome to Geo Climb   The only app you need for optimizing your rock climbing performance ";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "2h0-Jm-mV2"; */
+"2h0-Jm-mV2.title" = "Home";
+
+/* Class = "UINavigationItem"; title = "Routes"; ObjectID = "5CC-my-5f1"; */
+"5CC-my-5f1.title" = "Routes";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "6F8-0W-rNC"; */
+"6F8-0W-rNC.normalTitle" = "START";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8gW-aA-T9X"; */
+"8gW-aA-T9X.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Hang Timer"; ObjectID = "BVr-h1-IyU"; */
+"BVr-h1-IyU.title" = "Hang Timer";
+
+/* Class = "UILabel"; text = "Height: "; ObjectID = "E1j-EF-E3V"; */
+"E1j-EF-E3V.text" = "Height: ";
+
+/* Class = "UIButton"; normalTitle = "Stop/Reset"; ObjectID = "FOB-Ng-WBb"; */
+"FOB-Ng-WBb.normalTitle" = "Stop/Reset";
+
+/* Class = "UILabel"; text = "Yosemite Decimal Rating:"; ObjectID = "GCq-wn-HJe"; */
+"GCq-wn-HJe.text" = "Yosemite Decimal Rating:";
+
+/* Class = "UILabel"; text = "Ascended?"; ObjectID = "KRO-Ym-7cY"; */
+"KRO-Ym-7cY.text" = "Ascended?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MsL-vA-PNB"; */
+"MsL-vA-PNB.text" = "Label";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "NzX-GS-rxQ"; */
+"NzX-GS-rxQ.text" = "Description:";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "QAA-go-PNM"; */
+"QAA-go-PNM.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "SBn-gA-cMB"; */
+"SBn-gA-cMB.text" = "Location:";
+
+/* Class = "UINavigationItem"; title = "Geo Climb"; ObjectID = "Uuc-dj-rbd"; */
+"Uuc-dj-rbd.title" = "Geo Climb";
+
+/* Class = "UILabel"; text = "Label_Name"; ObjectID = "WWX-xt-Nhm"; */
+"WWX-xt-Nhm.text" = "Label_Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yie-mA-UKu"; */
+"Yie-mA-UKu.text" = "Label";
+
+/* Class = "UILabel"; text = "Yes."; ObjectID = "bYn-v4-WJj"; */
+"bYn-v4-WJj.text" = "Yes.";
+
+/* Class = "UILabel"; text = "What is your name?"; ObjectID = "gls-mo-Tno"; */
+"gls-mo-Tno.text" = "What is your name?";
+
+/* Class = "UITabBarItem"; title = "Personalize"; ObjectID = "jRM-bn-Gu7"; */
+"jRM-bn-Gu7.title" = "Personalize";
+
+/* Class = "UILabel"; text = "Where do you climb?"; ObjectID = "jVV-d7-JRk"; */
+"jVV-d7-JRk.text" = "Where do you climb?";
+
+/* Class = "UINavigationItem"; title = "Hang Timer"; ObjectID = "keC-6l-WWn"; */
+"keC-6l-WWn.title" = "Hang Timer";
+
+/* Class = "UINavigationItem"; title = "Personalise Application"; ObjectID = "kxn-t0-9O8"; */
+"kxn-t0-9O8.title" = "Personalise Application";
+
+/* Class = "UILabel"; text = "Label_Location"; ObjectID = "o3e-af-cvc"; */
+"o3e-af-cvc.text" = "Label_Location";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "q9D-Cq-xrJ"; */
+"q9D-Cq-xrJ.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qN6-bT-YqJ"; */
+"qN6-bT-YqJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Created by Quality Overload II  SET - 2018"; ObjectID = "rSR-bG-1Qx"; */
+"rSR-bG-1Qx.text" = "Created by Quality Overload II  SET - 2018";
+
+/* Class = "UITabBarItem"; title = "Routes"; ObjectID = "tKL-5g-ZK7"; */
+"tKL-5g-ZK7.title" = "Routes";
+
+/* Class = "UILabel"; text = "How long can you hang in for?"; ObjectID = "vuH-Jy-KaQ"; */
+"vuH-Jy-KaQ.text" = "How long can you hang in for?";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "xfR-wd-avb"; */
+"xfR-wd-avb.text" = "0";
+
+/* Class = "UILabel"; text = "Location: "; ObjectID = "z6L-jy-gRR"; */
+"z6L-jy-gRR.text" = "Location: ";
+
+
